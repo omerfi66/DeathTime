@@ -35,7 +35,7 @@ class PasswordTextfield extends StatelessWidget {
                         width: 2.0), // Enabled border color and thickness
                   ),
                   icon: const Icon(Icons.date_range_outlined),
-                  hintText: 'doğum yılı ? ',
+                  hintText: 'doğum yılı  ',
                   hintStyle: TextStyle(
                     color: Colors.grey.shade700,
                   )),

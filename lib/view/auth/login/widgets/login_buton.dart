@@ -43,7 +43,7 @@ class LoginButon extends StatelessWidget {
                   }
                 },
                 child: const Text(
-                  'Hesapla',
+                  'ölüm ?',
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 15,

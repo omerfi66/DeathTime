@@ -34,7 +34,7 @@ class UsernameTextField extends StatelessWidget {
                       width: 2.0), // Enabled border color and thickness
                 ),
                 icon: const Icon(Icons.person),
-                hintText: ' isim ? ',
+                hintText: ' isim  ',
                 hintStyle: TextStyle(
                   color: Colors.grey.shade700,
                 ),
