@@ -1,16 +1,6 @@
-# denemeblocccdeneme
+I developed a delightful mobile application with BloC Pattern, Flutter's most used design pattern.📱
 
-A new Flutter project.
+In the application named 'my death date?', users who enter their name and birth year information learn their death date.☠️⚰️
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="324" alt="Ekran Resmi 2024-03-27 14 58 43" src="https://github.com/omerfi66/DeathTime-/assets/120007024/d1be62d0-8fd1-49fe-b2bb-4feb9225844e">
+<img width="326" alt="Ekran Resmi 2024-03-27 15 28 12" src="https://github.com/omerfi66/DeathTime-/assets/120007024/29b02eb9-a4d4-4c43-9d2a-31ffd0fcb021">
